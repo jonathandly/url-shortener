@@ -27,3 +27,13 @@ a {
 #features {
   padding-left: 3%;
 }
+
+.button {
+  background-color: hsl(180, 66%, 49%);
+  border-radius: 20px;
+  box-shadow: none;
+}
+
+.sign-up {
+  color: white;
+}

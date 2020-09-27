@@ -15,7 +15,11 @@ function Header() {
       </div>
       <div className="right-side">
         <a href="#">Login</a>
-        <a href="#">Sign Up</a>
+        <button className="button">
+          <a href="#" className="sign-up">
+            Sign Up
+          </a>
+        </button>
       </div>
     </div>
   );
