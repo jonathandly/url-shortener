@@ -1,0 +1,39 @@
+.left-side {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+}
+.right-side {
+  display: flex;
+  margin-left: 50%;
+  justify-content: flex-end;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+  margin-top: 5px;
+  font-size: 16px;
+  color: gray;
+  font-weight: 900;
+}
+
+#features {
+  padding-left: 3%;
+}
+
+.button {
+  background-color: hsl(180, 66%, 49%);
+  border-radius: 20px;
+  box-shadow: none;
+}
+
+.sign-up {
+  color: white;
+}
